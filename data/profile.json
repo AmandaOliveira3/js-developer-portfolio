@@ -1,9 +1,8 @@
 {
   "name": "Amanda Oliveira",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
   "job": "Graduanda em Ciencia da Computação",
   "location": "São Paulo - BR",
-  "phone": "(11) 96032-7342",
+  "phone": "(11) 1111-1111",
   "email": "amandapimenta2003@outlook.com",
   "skills": {
     "hardSkills": [
@@ -49,7 +48,7 @@
       "github": true
     }
   ],
-  "Experience": [
+  "professionalExperience": [
     {
       "name": "Bolsista em projeto de extensão",
       "period": "2023 - até o momento",
